@@ -1,3 +1,3 @@
-# Learning
+# Readme
 
-This repository is where the code I create while learning is stored
+This repository for code I have created while working through the book C++ programming in easy steps
